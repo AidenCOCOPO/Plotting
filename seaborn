@@ -1,1 +1,13 @@
 https://blog.csdn.net/u011331731/article/details/88344532?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase
+https://zhuanlan.zhihu.com/p/89353885   #basic setting, very useful
+https://zhuanlan.zhihu.com/p/49035741
+
+CDF图用 saeborn.kdeplot(data=None, x='', y='', cumulative=True)
+print(help(sns.set)) # 查看主题风格文档
+
+                            #kwargs = {'cumulative': True}
+                            #sns.distplot(df['preSinr'], kde_kws=kwargs)  # , hist_kws=kwargs , kde_kws=kwargs
+                            #cdf = np.cumsum(df['preSinr'])
+                            #print(cdf, 'cdf')
+                            #plt.plot(df['Crntis'], cdf, marker="o", label="CDF")
+                            #sns.kdeplot(data=df, x='preSinr'，cumulative=True)
